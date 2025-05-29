@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "course.examples.Services.KeyClient.app-debug-5:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "course.examples.Services.KeyClient.app-main-7:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "course.examples.Services.KeyClient.app-debug-5:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "course.examples.Services.KeyClient.app-main-7:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "course.examples.Services.KeyClient.app-debug-5:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "course.examples.Services.KeyClient.app-main-7:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "course.examples.Services.KeyClient.app-debug-5:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "course.examples.Services.KeyClient.app-main-7:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "course.examples.Services.KeyClient.app-debug-5:/layout_main.xml.flat",
+        "source": "course.examples.Services.KeyClient.app-main-7:/layout/main.xml"
+    }
+]

@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/281805024aca71bfca8a3e46996c0213/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/b8c036dc43a5ce6e88db2697f89c342d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/7d44678d2b64a05099337cc0f45408c0/transformed/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/40fd22062a6f44944ba9b7265f2cc7e6/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/00258df79a363043677e6eecc73c0c21/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/5e0481d582409503394770817e18f855/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/9dd2841aacf764b4d449e742e8a0721a/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/8e41399ce36af01e9e4913768a392d57/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/acfcc9f38cd64c8102a2ad534d51aa0c/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/373ef51c8a176dd1f1a61758ac5ea51b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/af2b13fa8a0cf385ee1d946a871da180/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/96d3b165a5c53d1df336cbab9c6d32bf/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:6:22-74
+uses-permission#course.examples.Services.KeyService.GEN_ID
+ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:7:5-82
+	android:name
+		ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:7:22-79
+application
+ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:9:5-23:19
+INJECTED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:9:5-23:19
+MERGED from [androidx.core:core:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/7d44678d2b64a05099337cc0f45408c0/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/7d44678d2b64a05099337cc0f45408c0/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/9dd2841aacf764b4d449e742e8a0721a/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/9dd2841aacf764b4d449e742e8a0721a/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:extractNativeLibs
+		INJECTED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/7d44678d2b64a05099337cc0f45408c0/transformed/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:icon
+		ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:10:9-36
+activity#course.examples.Services.KeyClient.KeyServiceUser
+ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:exported
+		ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:15:13-36
+	android:theme
+		ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:16:13-60
+	android:name
+		ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:14:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/281805024aca71bfca8a3e46996c0213/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/281805024aca71bfca8a3e46996c0213/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/b8c036dc43a5ce6e88db2697f89c342d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/b8c036dc43a5ce6e88db2697f89c342d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/7d44678d2b64a05099337cc0f45408c0/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/7d44678d2b64a05099337cc0f45408c0/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/40fd22062a6f44944ba9b7265f2cc7e6/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/40fd22062a6f44944ba9b7265f2cc7e6/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/00258df79a363043677e6eecc73c0c21/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/00258df79a363043677e6eecc73c0c21/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/5e0481d582409503394770817e18f855/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/5e0481d582409503394770817e18f855/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/9dd2841aacf764b4d449e742e8a0721a/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/9dd2841aacf764b4d449e742e8a0721a/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/8e41399ce36af01e9e4913768a392d57/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/8e41399ce36af01e9e4913768a392d57/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/acfcc9f38cd64c8102a2ad534d51aa0c/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/acfcc9f38cd64c8102a2ad534d51aa0c/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/373ef51c8a176dd1f1a61758ac5ea51b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/373ef51c8a176dd1f1a61758ac5ea51b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/af2b13fa8a0cf385ee1d946a871da180/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/af2b13fa8a0cf385ee1d946a871da180/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/96d3b165a5c53d1df336cbab9c6d32bf/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tronggiahungnguyen/.gradle/caches/8.10.2/transforms/96d3b165a5c53d1df336cbab9c6d32bf/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tronggiahungnguyen/Documents/UIC/CS478/ServiceWithIPCExampleClient/app/src/main/AndroidManifest.xml

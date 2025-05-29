@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "course.examples.Services.KeyService.app-debug-24:/raw_rain.mp3.flat",
+        "source": "course.examples.Services.KeyService.app-main-26:/raw/rain.mp3"
+    },
+    {
+        "merged": "course.examples.Services.KeyService.app-debug-24:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "course.examples.Services.KeyService.app-main-26:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "course.examples.Services.KeyService.app-debug-24:/raw_bad_disco.mp3.flat",
+        "source": "course.examples.Services.KeyService.app-main-26:/raw/bad_disco.mp3"
+    },
+    {
+        "merged": "course.examples.Services.KeyService.app-debug-24:/raw_jazz_montage.mp3.flat",
+        "source": "course.examples.Services.KeyService.app-main-26:/raw/jazz_montage.mp3"
+    },
+    {
+        "merged": "course.examples.Services.KeyService.app-debug-24:/layout_activity_key_generator.xml.flat",
+        "source": "course.examples.Services.KeyService.app-main-26:/layout/activity_key_generator.xml"
+    },
+    {
+        "merged": "course.examples.Services.KeyService.app-debug-24:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "course.examples.Services.KeyService.app-main-26:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "course.examples.Services.KeyService.app-debug-24:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "course.examples.Services.KeyService.app-main-26:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "course.examples.Services.KeyService.app-debug-24:/raw_we_let_just_slay.mp3.flat",
+        "source": "course.examples.Services.KeyService.app-main-26:/raw/we_let_just_slay.mp3"
+    },
+    {
+        "merged": "course.examples.Services.KeyService.app-debug-24:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "course.examples.Services.KeyService.app-main-26:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "course.examples.Services.KeyService.app-debug-24:/raw_no_remember.mp3.flat",
+        "source": "course.examples.Services.KeyService.app-main-26:/raw/no_remember.mp3"
+    }
+]

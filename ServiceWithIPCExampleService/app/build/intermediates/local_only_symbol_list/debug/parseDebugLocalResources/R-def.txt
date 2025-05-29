@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher
+layout activity_key_generator
+raw bad_disco
+raw jazz_montage
+raw no_remember
+raw rain
+raw we_let_just_slay
+string app_name
